@@ -31,4 +31,3 @@ This project allows you to:
 - ✅ **Custom sequence length and timing bins**  
   Adjustable sequence length and timing granularity.
 
----
