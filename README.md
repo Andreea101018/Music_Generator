@@ -32,6 +32,3 @@ This project allows you to:
   Adjustable sequence length and timing granularity.
 
 ---
-
-## 🛠️ Project Structure
-
